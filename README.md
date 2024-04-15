@@ -8,7 +8,7 @@
 
 ## Установка
 
-composer require andrey-buynovskiy/otus-composer-package
+composer require andrei-buinovskii/otus-composer-package
 
 ## Использование
 

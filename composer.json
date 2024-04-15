@@ -1,0 +1,16 @@
+{
+    "name": "andrei-buinovskii/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AndreiBuinovskii\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrei Buinovskii",
+            "email": "andre15101993@gmail.com"
+        }
+    ],
+    "require": {}
+}
