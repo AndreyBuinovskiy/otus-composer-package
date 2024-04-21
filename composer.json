@@ -12,5 +12,7 @@
             "email": "andre15101993@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.2"
+    }
 }
